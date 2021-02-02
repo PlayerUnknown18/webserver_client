@@ -1,0 +1,13 @@
+{
+	"_id": "324f-cfcf-ab54-bc44",
+	"name": "foobar",
+	"creationTime": "2021-01-18T17:12:21.474Z",
+	"packets": [
+		{
+			"satellite": "sat1",
+			"key": { "serviceType": 1, "serviceSubType": 2 }, // Does not have to be service type and subtype could be anything
+			"type": "telecommands",
+			"params": [1,2,3,"an enum option"]
+		}
+	]
+}
