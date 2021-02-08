@@ -1,7 +1,7 @@
 {
 	"_id": "324f-cfcf-ab54-bc44",
 	"name": "foobar",
-	"creationTime": "2021-01-18T17:12:21.474Z",
+	"creationTime": "2021-01-18 17:12:21.474",
 	"packets": [
 		{
 			"satellite": "sat1",

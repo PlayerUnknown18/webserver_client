@@ -1,0 +1,13 @@
+ {
+	"_id": "",
+	"name": "",
+	"creationTime": "",
+	"packets": [
+		{
+			"satellite": "",
+			"key": { "serviceType": , "serviceSubType": }, 
+			"type": "",
+			"params": []
+		}
+	]
+}
